@@ -6,4 +6,4 @@ Ich bin jetzt im development branch.
 Jetzt arbeite ich im Development branch weiter 3.
 Das ist jetzt eine Verbesserung der GUI. Teil 3.
 
-Ich bin jezt immer noch im devlopement branch 3.
+Jetzt bin ich im release1.0 branch 1.
